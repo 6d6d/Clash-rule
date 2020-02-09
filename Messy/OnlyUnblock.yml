@@ -68,7 +68,7 @@ Proxy:
 
 Proxy Group:
 - { name: "NeteaseMusic", type: select, proxies: ["Unblock", "DIRECT"] }
-- { name: "屏蔽广告", type: select, proxies: ["REJECT", "DIRECT"] }
+- { name: "屏蔽网站", type: select, proxies: ["REJECT", "DIRECT"] }
 
 # 规则
 Rule:
