@@ -5126,10 +5126,3 @@ Rule:
 
 # GeoIP China
 - GEOIP,CN,DIRECT
-
-
-# 自用
-- DOMAIN-KEYWORD,algolia,Proxy
-- DOMAIN,ghidra-sre.org,Proxy
-
-- MATCH,Proxy
