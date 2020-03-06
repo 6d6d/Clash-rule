@@ -1,4 +1,5 @@
 #仅测试
-#目的解决填写问卷星试卷中出现的IP限制问题
+#解决填写问卷星试卷中出现的IP限制问题
 DOMAIN-KEYWORD,wjx.top
 DOMAIN-KEYWORD,wjx.cn
+DOMAIN-KEYWORD,wjx
