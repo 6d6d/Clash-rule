@@ -13,8 +13,8 @@ DOMAIN-SUFFIX,ac.dun.163yun.com
 DOMAIN-SUFFIX,mr.da.netease.com
 DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,imap.163.com
-DOMAIN-SUFFIX,music.126.net
-DOMAIN-SUFFIX,music.163.com
+DOMAIN,music.126.net
+DOMAIN,music.163.com
 DOMAIN-KEYWORD,netease
 IP-CIDR,39.105.63.80/32
 IP-CIDR,45.254.48.1/32
