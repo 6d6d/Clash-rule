@@ -1,9 +1,3 @@
-#Epic
-DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,paragon.com
-DOMAIN-SUFFIX,unrealengine.com
-
 #CS:go-HK
 IP-CIDR,1.46.6.247/32,no-resolve
 IP-CIDR,1.171.123.48/32,no-resolve
