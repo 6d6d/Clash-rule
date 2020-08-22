@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,unrealengine.com
 
 #CS:go-HK
 IP-CIDR,1.46.6.247/32,no-resolve
-IP-CIDR,IP-CIDR,1.171.123.48/32,no-resolve
+IP-CIDR,1.171.123.48/32,no-resolve
 IP-CIDR,2.21.71.88/32,no-resolve
 IP-CIDR,2.21.71.89/32,no-resolve
 IP-CIDR,3.0.50.0/24,no-resolve
