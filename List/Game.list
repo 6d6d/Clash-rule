@@ -617,10 +617,8 @@ IP-CIDR,222.187.224.0/24,no-resolve
 IP-CIDR,224.0.0.0/4,no-resolve
 IP-CIDR,240.0.0.0/4,no-resolve
 
-#Steam
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
+#LOL
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,tdm.cros.wr.pvp.net
+DOMAIN-SUFFIX,lol
