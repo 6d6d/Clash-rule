@@ -1,0 +1,12 @@
+payload:
+  - PROCESS-NAME,tcls_core.exe
+  - PROCESS-NAME,XY_YXQ_Nethelper.exe
+  - PROCESS-NAME,QMLolAssist.exe
+  - PROCESS-NAME,wegame.exe
+  - PROCESS-NAME,rail.exe
+  - PROCESS-NAME,yxqxunyou.exe
+  - PROCESS-NAME,browser.exe
+  - PROCESS-NAME,CrossProxy.exe
+  - PROCESS-NAME,LeagueClient.exe
+  - PROCESS-NAME,LeagueClientUxRender.exe
+  - PROCESS-NAME,League of Legends.exe
