@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,1drv.com
   - PROCESS-NAME,AirExplorer.exe
+  - DOMAIN-SUFFIX,pytorch.org
