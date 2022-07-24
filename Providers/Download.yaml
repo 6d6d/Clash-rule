@@ -5,3 +5,4 @@ payload:
   - PROCESS-NAME,AirExplorer.exe
   - DOMAIN-SUFFIX,pytorch.org
   - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steam
