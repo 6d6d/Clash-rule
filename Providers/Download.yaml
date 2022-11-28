@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,pytorch.org
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steam
+  - PROCESS-NAME,com.docker.backend.exe
