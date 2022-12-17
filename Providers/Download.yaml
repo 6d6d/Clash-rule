@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steam
   - PROCESS-NAME,com.docker.backend.exe
+  - DOMAIN-KEYWORD,office
