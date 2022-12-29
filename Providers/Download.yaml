@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,steam
   - PROCESS-NAME,com.docker.backend.exe
   - DOMAIN-KEYWORD,office
+  - DOMAIN-KEYWORD,riot
