@@ -1,6 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,openai
-  - DOMAIN-SUFFIX,bard
-  - DOMAIN-SUFFIX,bing
-  - DOMAIN-SUFFIX,claude
-  - DOMAIN-SUFFIX,anthropic
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,chatmind.tech
+  - DOMAIN-SUFFIX,gamma.app
