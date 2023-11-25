@@ -1,8 +1,23 @@
 payload:
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,chatmind.tech
   - DOMAIN-SUFFIX,gamma.app
+  - DOMAIN,ai.cn,OpenAI
+  - DOMAIN-SUFFIX,ai.com,OpenAI
+  - DOMAIN-SUFFIX,auth0.com,OpenAI
+  - DOMAIN-SUFFIX,challenges.cloudflare.com,OpenAI
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com,OpenAI
+  - DOMAIN-SUFFIX,events.statsigapi.net,OpenAI
+  - DOMAIN-SUFFIX,featuregates.org,OpenAI
+  - DOMAIN-SUFFIX,identrust.com,OpenAI
+  - DOMAIN-SUFFIX,intercom.io,OpenAI
+  - DOMAIN-SUFFIX,intercomcdn.com,OpenAI
+  - DOMAIN-SUFFIX,poe.com,OpenAI
+  - DOMAIN-SUFFIX,sentry.io,OpenAI
+  - DOMAIN-SUFFIX,stripe.com,OpenAI
+  - DOMAIN-SUFFIX,oaistatic.com,OpenAI
+  - DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
+  - DOMAIN-KEYWORD,openai,OpenAI
