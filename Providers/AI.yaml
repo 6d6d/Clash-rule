@@ -25,3 +25,5 @@ payload:
   - DOMAIN-KEYWORD,huggingface
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-KEYWORD,gpt
+  - DOMAIN-SUFFIX,xeduapi.com
+  - DOMAIN-SUFFIX,gptapi.us
