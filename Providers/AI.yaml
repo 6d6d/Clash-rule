@@ -8,8 +8,6 @@ payload:
   - DOMAIN,gemini.google.com
   - DOMAIN-KEYWORD,huggingface
   - DOMAIN-SUFFIX,huggingface.co
-  - DOMAIN-SUFFIX,xeduapi.com
-  - DOMAIN-SUFFIX,gptapi.us
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,ai.com
